@@ -15,56 +15,56 @@
             "name": "Schrodinger Wave Equation",
             "short-name": "schrodinger-wave-equation",
             "repo": "https://github.com/virtual-labs/exp-swe-solutions-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Carrier Mobility",
             "short-name": "carrier-mobility",
             "repo": "https://github.com/virtual-labs/exp-carrier-transport-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "PN Junction Diode",
             "short-name": "pn-junction-diode",
             "repo": "https://github.com/virtual-labs/exp-pn-junction-diode-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Non-Uniform Doping in Semiconductor",
             "short-name": "non-uniform-doping-semiconductor",
             "repo": "https://github.com/virtual-labs/exp-non-uniform-doping-semiconductor-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Density of States & Fermi Level",
             "short-name": "density-of-states-fermi-level",
             "repo": "https://github.com/virtual-labs/exp-dos-fermi-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Carrier Density in Semiconductors",
             "short-name": "carrier-density-semiconductors",
             "repo": "https://github.com/virtual-labs/exp-carrier-density-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Group Velocity, Momentum, Effective Mass & Bandgap Energy",
             "short-name": "group-velocity-momentum-effective-mass-bandgap",
             "repo": "https://github.com/virtual-labs/exp-group-velocity-momentum-effective-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         },
         {
             "name": "Temperature Dependence of Carrier Concentration & Fermi Level Position",
             "short-name": "temperature-dependence-carrier-fermi-level",
             "repo": "https://github.com/virtual-labs/exp-temperature-dependence-carrier-iiith",
-            "tag": "v1.0.0",
+            "tag": "v1.0.1",
             "deploy": true
         }
     ],
